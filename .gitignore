@@ -1,0 +1,8 @@
+# Created by https://www.toptal.com/developers/gitignore/api/windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows
+
+### .exe ###
+
+*.exe
+
+# End of https://www.toptal.com/developers/gitignore/api/windows
