@@ -1,6 +1,6 @@
 /*
-Problem: [BOJ]2407번
-Solver: 이진원
+Problem: [BOJ]2407
+Solver: Jinwon
 Reference: https://jaimemin.tistory.com/682
 */
 #include <iostream>

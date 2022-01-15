@@ -1,9 +1,7 @@
 /*
-Problem: [BOJ]1003번
-Solver: 이진원
+Problem: [BOJ]1003
+Solver: Jinwon
 Reference: https://sihyungyou.github.io/baekjoon-1003/
-(규칙성을 찾으면 zero, one 따로 찾지 않아도 된다)
-참고는 했으나 다르게 품
 */
 #include <iostream>
 #include <vector>

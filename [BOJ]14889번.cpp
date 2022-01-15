@@ -1,6 +1,6 @@
 /*
 Problem: BOJ[14889]
-Solver: юлаЬ©Ь
+Solver: Jinwon
 Reference: X
 */
 #include <iostream>

@@ -1,3 +1,8 @@
+/*
+Problem: [BOJ]1110
+Solver: Jinwon
+Reference:
+*/
 #include <stdio.h>
 
 int main()

@@ -1,6 +1,6 @@
 /*
 Problem: BOJ[14501]
-Solver: 이진원
+Solver: Jinwon
 Reference: X
 */
 #include <iostream>

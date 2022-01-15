@@ -1,6 +1,6 @@
 /*
-Problem: [BOJ]1149번
-Solver: 이진원
+Problem: [BOJ]1149
+Solver: Jinwon
 Reference: https://sihyungyou.github.io/baekjoon-1149/
 */
 #include <iostream>

@@ -1,8 +1,9 @@
 /*
-Problem: [BOJ]3190번
-Solver: 이진원
+Problem: [BOJ]3190
+Solver: Jinwon
 Reference: X
 */
+
 #include <iostream>
 #include <vector>
 #include <queue>

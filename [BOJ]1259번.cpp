@@ -1,3 +1,9 @@
+/*
+Problem: [BOJ]1259
+Solver: Jinwon
+Reference: X
+*/
+
 # include<iostream>
 # include<string>
 # include<algorithm>

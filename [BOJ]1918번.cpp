@@ -1,6 +1,6 @@
 /*
-Problem: [BOJ]1918번
-Solver: 이진원
+Problem: [BOJ]1918
+Solver: Jinwon
 Reference: X
 */
 #include <iostream>

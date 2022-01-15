@@ -19,7 +19,7 @@ int main()
 			str.insert(name);
 	}
 	
-	//¹Ýº¹ÀÚ(C¾ð¾îÀÇ Æ÷ÀÎÅÍ °°Àº °Í) ¼±¾ð
+	//ï¿½Ýºï¿½ï¿½ï¿½(Cï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½) ï¿½ï¿½ï¿½ï¿½
 	std::set<std::string>::reverse_iterator find;
 
 	for (find = str.rbegin(); find != str.rend(); find++)
