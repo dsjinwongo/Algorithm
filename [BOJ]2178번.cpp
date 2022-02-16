@@ -55,6 +55,7 @@ int main()
 				{
 					_count[tempy][tempx] = _count[que.front().second][que.front().first] + 1;
 					que.push(make_pair(tempx, tempy));
+					//추가할 때마다 방문체크 안해주면 중복으로 올라가 메모리 초과가 발생
 					visited[tempy][tempx] = 1;
 				}
 			}
